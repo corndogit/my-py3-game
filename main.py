@@ -98,7 +98,7 @@ def electric_room(power):
     elif choice == "2" and high_voltage == True:
         print("You connect the power source to the transformer. It should be safe to connect the power to the door now.")
         high_voltage = False
-        electric_room(False)
+        electric_room(high_voltage)
 
     elif choice == "3":
         if doom_count <= 2:
