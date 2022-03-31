@@ -6,3 +6,4 @@ The aim is to explore three rooms, collecting a gem from each which allows you t
 
  ### How to play
  Open the file `main.py` in your console of choice.
+ Also try out `main_classes.py` for my rewrite using classes!`
